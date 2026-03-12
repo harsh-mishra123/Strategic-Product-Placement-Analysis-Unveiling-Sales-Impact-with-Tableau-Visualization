@@ -15,7 +15,7 @@ DATA_ANALYTICS/
 │   └── README.md                      # This file
 └── frontend/
     ├── index.html                     # Interactive dashboard
-    ├── css/style.css                  # Design system
+    ├── css/style.css                  # Design system.
     └── js/main.js                     # Charts & interactivity
 ```
 
