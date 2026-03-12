@@ -1,0 +1,41 @@
+Placement_Strategy,Scenario,Media_Channel,Impressions,Engagement_Rate,Conversion_Rate,Revenue_Impact,Brand_Recall_Score,Cost_Per_Impression,Campaign_Duration_Days,Target_Audience
+Endcap Display,Retail,In-Store,45000,12.5,4.2,125000,78,0.018,30,General Shoppers
+Shelf Eye-Level,Retail,In-Store,38000,9.8,3.8,98000,72,0.011,30,Regular Buyers
+Checkout Counter,Retail,In-Store,52000,15.2,6.1,89000,65,0.008,30,Impulse Buyers
+Window Display,Retail,In-Store,28000,7.3,2.1,45000,58,0.021,30,Window Shoppers
+Online Banner,Retail,E-Commerce,120000,3.2,1.8,78000,42,0.007,30,Online Shoppers
+Hero Scene Placement,Film,Movie Theater,2500000,0.8,0.3,450000,85,0.002,90,Movie Goers 18-45
+Background Placement,Film,Movie Theater,2500000,0.3,0.1,120000,45,0.002,90,Movie Goers All
+Character Usage,Film,Movie Theater,2500000,1.2,0.5,680000,92,0.002,90,Fan Communities
+Plot Integration,Film,Movie Theater,2500000,1.8,0.8,950000,95,0.002,90,Engaged Viewers
+Subtle Background,Film,Streaming,1800000,0.4,0.12,85000,38,0.003,120,Streaming Audience
+Plot Integration,Film,Streaming,1800000,1.5,0.6,520000,88,0.003,120,Binge Watchers
+Character Usage,Film,Streaming,1800000,1.1,0.4,380000,82,0.003,120,Series Fans
+Pre-Roll Ad,Advertising,Digital Video,500000,2.8,1.2,95000,55,0.005,14,Digital Natives
+Mid-Roll Integration,Advertising,Digital Video,400000,4.5,2.1,120000,68,0.006,14,Engaged Viewers
+Banner Display,Advertising,Website,800000,1.2,0.6,45000,32,0.003,30,Web Browsers
+Social Media Sponsored,Advertising,Social Media,650000,5.8,2.8,145000,72,0.004,14,Social Users 18-35
+Influencer Placement,Advertising,Social Media,350000,8.2,3.5,180000,82,0.008,7,Followers 18-30
+TV Commercial Tie-In,Advertising,Television,3000000,1.5,0.7,320000,75,0.001,30,TV Viewers 25-55
+Podcast Mention,Advertising,Audio,200000,6.5,2.2,65000,70,0.004,7,Podcast Listeners
+Native Content,Advertising,Digital Article,150000,4.2,1.8,52000,62,0.005,14,Readers 25-45
+Endcap + Digital,Retail,Omni-Channel,165000,8.5,3.5,198000,74,0.009,30,Multi-Channel
+Eye-Level + Social,Retail,Omni-Channel,188000,7.2,3.1,175000,70,0.008,30,Connected Shoppers
+Checkout + App Push,Retail,Omni-Channel,172000,11.8,5.2,156000,68,0.007,30,App Users
+Hero + Social Media,Film,Cross-Platform,3150000,2.1,0.9,780000,88,0.002,90,Multi-Platform
+Plot + Merchandise,Film,Cross-Platform,2800000,2.5,1.2,1250000,94,0.003,120,Super Fans
+Seasonal Endcap,Retail,In-Store,55000,14.8,5.5,165000,80,0.016,14,Holiday Shoppers
+BOGO Display,Retail,In-Store,48000,16.2,7.8,142000,70,0.012,7,Deal Seekers
+Premium Shelf,Retail,In-Store,32000,8.5,3.2,112000,76,0.015,30,Premium Buyers
+Demo Station,Retail,In-Store,22000,22.5,8.5,95000,88,0.025,14,Experience Seekers
+Aisle Cap,Retail,In-Store,42000,10.2,3.8,88000,66,0.010,30,Category Browsers
+Interactive Display,Retail,In-Store,18000,28.5,9.2,78000,90,0.035,14,Tech-Savvy Shoppers
+Cross-Merch Display,Retail,In-Store,35000,11.8,4.5,105000,72,0.014,30,Basket Builders
+AR Try-On,Retail,Digital In-Store,25000,18.5,6.8,92000,85,0.020,30,Digital Natives
+QR Code Display,Retail,Hybrid,38000,6.2,2.8,68000,55,0.009,30,Tech-Forward
+Geo-Targeted Push,Retail,Mobile,95000,4.8,2.2,72000,48,0.005,14,Mobile Shoppers
+Retargeting Banner,Advertising,Digital Display,450000,2.2,1.5,88000,45,0.004,30,Previous Visitors
+Programmatic Video,Advertising,Connected TV,600000,3.8,1.4,135000,62,0.005,30,CTV Viewers
+Shoppable Video,Advertising,Social Media,280000,9.5,4.2,165000,78,0.007,14,Social Shoppers
+Brand Storyline,Film,Limited Series,4200000,2.8,1.1,1450000,96,0.002,180,Dedicated Viewers
+Virtual Placement,Film,Post-Production,1500000,0.6,0.2,95000,35,0.003,90,General Audience
